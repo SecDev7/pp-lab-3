@@ -25,7 +25,7 @@ public class main {
         System.out.println("Pole prostokąta: " + rectangle.calculateArea());
         System.out.println("Obwód prostokąta: " + rectangle.calculatePerimeter());
 
-        // Utworzenie i wyświetlenie właściwości kwadratu
+      
         Square square = new Square(5.0);
         System.out.println("Pole kwadratu: " + square.calculateArea());
         System.out.println("Obwód kwadratu: " + square.calculatePerimeter());
